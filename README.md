@@ -1,4 +1,3 @@
-A New Project
 # Social Network Project
 
 A chatting web app using MEAN Stack (Node.js, Angular 4, Express.js & MongoDb)
